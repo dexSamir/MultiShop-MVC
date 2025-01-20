@@ -15,3 +15,4 @@
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.pdb
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.genruntimeconfig.cache
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/ref/MultiShop.DAL.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.sourcelink.json

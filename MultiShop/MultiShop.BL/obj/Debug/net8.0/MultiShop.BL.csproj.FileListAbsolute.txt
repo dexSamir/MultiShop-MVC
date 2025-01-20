@@ -15,3 +15,4 @@
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.BL/obj/Debug/net8.0/refint/MultiShop.BL.dll
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.BL/obj/Debug/net8.0/MultiShop.BL.pdb
 /Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.BL/obj/Debug/net8.0/ref/MultiShop.BL.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.BL/obj/Debug/net8.0/MultiShop.BL.sourcelink.json
