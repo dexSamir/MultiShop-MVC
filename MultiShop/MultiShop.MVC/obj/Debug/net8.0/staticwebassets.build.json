@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "K5N3KGRVXRcEvf7EkIgILrtiox+Jx0De4ZFZ8QYow8s=",
+  "Source": "MultiShop.MVC",
+  "BasePath": "_content/MultiShop.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MultiShop.MVC/wwwroot",
+      "Source": "MultiShop.MVC",
+      "ContentRoot": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/wwwroot/",
+      "BasePath": "_content/MultiShop.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/bundle/MultiShop.MVC.styles.css",
+      "SourceId": "MultiShop.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/MultiShop.MVC",
+      "RelativePath": "MultiShop.MVC.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/bundle/MultiShop.MVC.styles.css"
+    },
+    {
+      "Identity": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/projectbundle/MultiShop.MVC.bundle.scp.css",
+      "SourceId": "MultiShop.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/MultiShop.MVC",
+      "RelativePath": "MultiShop.MVC.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/projectbundle/MultiShop.MVC.bundle.scp.css"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.MVC/obj/Debug/net8.0/scopedcss/projectbundle/MultiShop.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/MultiShop.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MultiShop.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MultiShop.MVC.props",
+      "PackagePath": "build\\MultiShop.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MultiShop.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MultiShop.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MultiShop.MVC.props",
+      "PackagePath": "buildTransitive\\MultiShop.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.DAL.deps.json
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.DAL.runtimeconfig.json
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.DAL.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.DAL.pdb
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.Core.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/bin/Debug/net8.0/MultiShop.Core.pdb
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.csproj.CopyComplete
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/refint/MultiShop.DAL.dll
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.pdb
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/MultiShop.DAL.genruntimeconfig.cache
+/Users/samirhebibov/Desktop/MultiShop-MVC/MultiShop/MultiShop.DAL/obj/Debug/net8.0/ref/MultiShop.DAL.dll

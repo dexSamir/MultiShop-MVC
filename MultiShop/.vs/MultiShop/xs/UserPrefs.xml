@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{5610277B-0846-41C0-8941-868931008EF1}|https">
+  <MonoDevelop.Ide.ItemProperties.MultiShop.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MultiShop.Core FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MultiShop.DAL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MultiShop.BL FirstBuild="True" />
+</Properties>
