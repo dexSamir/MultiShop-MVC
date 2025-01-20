@@ -9,4 +9,17 @@
   <ItemGroup>
     <ProjectReference Include="..\MultiShop.DAL\MultiShop.DAL.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="VM\" />
+    <None Remove="Extension\" />
+    <None Remove="VM\Category\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="VM\" />
+    <Folder Include="Extension\" />
+    <Folder Include="VM\Category\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+  </ItemGroup>
 </Project>

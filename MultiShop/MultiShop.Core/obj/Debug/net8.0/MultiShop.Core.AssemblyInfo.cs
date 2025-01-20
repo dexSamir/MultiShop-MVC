@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fea0d192e81ab90e98e6d41fe0fac3e2224373f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb54259170746a823a024cbc06b69632bfaf7333")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
