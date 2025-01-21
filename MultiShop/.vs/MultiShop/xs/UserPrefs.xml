@@ -1,34 +1,28 @@
 ﻿<Properties StartupConfiguration="{5610277B-0846-41C0-8941-868931008EF1}|https">
-  <MonoDevelop.Ide.ItemProperties.MultiShop.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MultiShop.MVC/Areas/Admin/Controllers/CategoryController.cs">
-    <Files>
-      <File FileName="MultiShop.MVC/Areas/Admin/Views/Category/Update.cshtml" Line="10" Column="36" />
-      <File FileName="MultiShop.MVC/Areas/Admin/Views/Category/Create.cshtml" Line="8" Column="31" />
-      <File FileName="MultiShop.MVC/Areas/Admin/Controllers/CategoryController.cs" Line="141" Column="32" />
-      <File FileName="MultiShop.MVC/Areas/Admin/Views/Category/Index.cshtml" Line="41" Column="42" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MultiShop" expanded="True">
             <Node name="MultiShop.BL">
-              <Node name="Extension" expanded="True" />
-              <Node name="VM" expanded="True" />
+              <Node name="VM" expanded="True">
+                <Node name="Product" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MultiShop.DAL" expanded="True">
+              <Node name="Configuration" expanded="True" />
             </Node>
             <Node name="MultiShop.MVC">
               <Node name="Areas">
                 <Node name="Admin">
+                  <Node name="Controllers" expanded="True" />
                   <Node name="Views">
                     <Node name="Category" expanded="True" />
-                    <Node name="Shared" expanded="True" />
+                    <Node name="Product" expanded="True">
+                      <Node name="Create.cshtml" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="imgs" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -36,7 +30,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MultiShop.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

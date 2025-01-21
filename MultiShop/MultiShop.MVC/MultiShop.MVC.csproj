@@ -28,6 +28,7 @@
     <Folder Include="Areas\Admin\Views\Category\" />
     <Folder Include="wwwroot\imgs\" />
     <Folder Include="wwwroot\imgs\categories\" />
+    <Folder Include="Areas\Admin\Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MultiShop.BL\MultiShop.BL.csproj">
@@ -51,5 +52,6 @@
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\Shared\" />
     <None Remove="Areas\Admin\Views\Category\" />
+    <None Remove="Areas\Admin\Views\Product\" />
   </ItemGroup>
 </Project>
